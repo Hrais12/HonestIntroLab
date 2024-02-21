@@ -1,0 +1,39 @@
+.adcontainer{
+    border: solid #B9D0BA ;
+    background-color: #B9D0BA;
+    /*height: 10vh;*/
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+.leftArrow{
+    /*border: solid red;*/
+    height: 30px;
+
+}
+.adText{
+    /*border: solid blue;*/
+    height: 30px;
+}
+.adLink{
+   /* border: solid green;*/
+    height: 30px;
+}
+
+.rightArrow{
+   /* border: solid red;*/
+    height: 30px;
+}
+.box{
+    border: solid peru;
+    height:90px;
+    width: 90px;
+    /*margin:100px; */
+    padding: 100px;
+}
+.navbar{
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
