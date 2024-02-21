@@ -37,7 +37,46 @@
     display: flex;
     justify-content: space-between;
 }
+
+.pictureContainer{
+    position: relative
+}
 .mainPic{
-    width: 100%;
-   
+    width: 100%
+}
+
+.headingLarge{
+    display:flex;
+    text-align: center;
+    position: absolute ;
+    top: 48%;
+    left: 45%;
+    transform: translate(-30%,-60%);
+    font: 30px bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+.heading{
+    display: flex;
+    text-align: center;
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    transform: translate(-25%);
+    font: 20px bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+.ShopNow{
+    display: flex;
+    text-align: center;
+    position: absolute;
+    top: 68%;
+    left: 45%;
+    padding: 14px;
+    background-color: black;
+    color: white;
+
 }
