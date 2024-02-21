@@ -37,3 +37,6 @@
     display: flex;
     justify-content: space-between;
 }
+.mainPic{
+    width: 100%;
+}
